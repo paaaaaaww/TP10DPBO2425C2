@@ -59,6 +59,6 @@ Hasil dari setiap aksi kemudian ditampilkan kembali di halaman list. Selain itu,
 
 **3. Dokumentasi**
 
-Klik dibawah ini untuk menihat dokumentasi 
+Klik dibawah ini untuk melihat dokumentasi 
 
 [![Watch the video](https://img.youtube.com/vi/zSrneCFTT1M/0.jpg)](https://youtu.be/zSrneCFTT1M)
